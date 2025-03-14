@@ -50,8 +50,8 @@ Stale contributions will be flagged and eventually closed.
 
 ## Legal
 
-Each source file must include a license header for the MIT
-Software. Using the SPDX format is the simplest approach.
+Each source file must include a license header for Apache
+2.0. Using the SPDX format is the simplest approach.
 e.g.
 
 ```py
