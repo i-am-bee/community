@@ -44,6 +44,7 @@ Current committers (in alphabetical order):
 - [Akihiko (Aki) Kuroda](https://github.com/akihikokuroda)
 - [George Liu](https://github.com/george-lhj)
 - [Michael Maximilien](https://github.com/maximilien)
+- [Ian Molloy](https://github.com/imolloy)
 - [Tomas Pilar](https://github.com/pilartomas)
 - [Jan Pokorný](https://github.com/JanPokorny)
 - [Mark Sturdevant](https://github.com/markstur)
@@ -77,6 +78,8 @@ Current TSC members (in alphabetical order):
 - [Kate Blair](https://github.com/geneknit)
 - [Ismael Faro](https://github.com/ismael-faro)
 - [Matous Havlena](https://github.com/matoushavlena)
+- [Ian Molloy](https://github.com/imolloy)
+- [Jenna Winkler](https://github.com/jenna-winkler)
 
 One of the TSC members is the chairperson of the TSC and should ensure the smooth running of the TSC. They do not have more voting power than other TSC members.
 
