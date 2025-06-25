@@ -31,7 +31,7 @@ Current committers (in alphabetical order):
 - [Angelo Danducci](https://github.com/AngeloDanducci)
 - [Michael Desmond](https://github.com/michael-desmond)
 - [Jan Dušek](https://github.com/Zycon42)
-- [Ismael Faro](https://github.com/ismael-faro)
+- [Ismael Faro](https://github.com/ismaelfaro)
 - [Ana Fucs](https://github.com/anafucs)
 - [Matous Havlena](https://github.com/matoushavlena)
 - [Martin Hickey](https://github.com/hickeyma)

@@ -6,17 +6,17 @@ Our project welcomes external contributions. If you have an itch, please feel fr
 to scratch it.
 
 To contribute code or documentation, please submit a pull request to the specific 
-reporistory (e.g. beeai, beeai-framework, etc).
+repository (e.g. beeai, beeai-framework, etc).
 
 A good way to familiarize yourself with the codebase and contribution process is
-to look for and tackle low-hanging fruit in the to the specific reporistory (e.g. 
+to look for and tackle low-hanging fruit in the specific repository (e.g. 
 beeai, beeai-framework, etc).
 Before embarking on a more ambitious contribution, create a discussion in the 
 relevant repository. If you are unsure which repository is correct, you can
  open the discussion [at the org level](https://github.com/orgs/i-am-bee/discussions).
 
 For general questions or support requests, please refer to the discussion 
-section of the relevant reposttory. If you are unsure which repository is
+section of the relevant repository. If you are unsure which repository is
  correct, you refer to [org level discussions](https://github.com/orgs/i-am-bee/discussions).
 
 **Note: We appreciate your effort, and want to avoid a situation where a contribution
